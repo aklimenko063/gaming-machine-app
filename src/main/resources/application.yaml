@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: gaming-machine-app
+  datasource:
+    url: jdbc:postgresql://psql.sl-grp.ru:5432/gaming-machine-db
+    username:
+    password:
+    driver-class-name: org.postgresql.Driver
